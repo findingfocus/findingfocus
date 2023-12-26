@@ -9,7 +9,7 @@
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 <br>
 #### Accounts
-[![Email Badge](https://img.shields.io/badge/-Email:paul@findingfocus.dev-325A80?style=flat-squareColor=white&link=mailto:paul@findingfocus.dev)](mailto:paul@findingfocus.dev)
+[![Email Badge](https://img.shields.io/badge/paul@findingfocus.dev-325A80?style=flat-square&logo=Gmail&Color=white&link=mailto:paul@findingfocus.dev)](mailto:paul@findingfocus.dev)
 [![Linkedin Badge](https://img.shields.io/badge/-findingfocus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paul-thompson-abq/)](https://www.linkedin.com/in/paul-thompson-abq/)
 [![Youtube Badge](https://img.shields.io/badge/-findingfocus-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/findingfocus)](https://www.youtube.com/findingfocus)
 
