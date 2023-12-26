@@ -1,4 +1,4 @@
-### Finding Focus: Paul Thompson's Coding Portfolio
+### Paul Thompson's Coding Portfolio
 
 #### Languages
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
@@ -9,7 +9,7 @@
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 <br>
 <br>
-I'm currently building out my [website](findingfocus.dev) in HTML and CSS. There's now a playable demo on that site in the interactive art tab for you to try out and it even works on mobile.
+I'm currently building out my website in HTML and CSS. There's now a playable demo on that site in the interactive art tab for you to try out and it even works on mobile.
 <br>
 <br>
 I'm currently mainly programming interactive art experiences in LOVE 2d using Lua, but I am also programming in C.
