@@ -1,7 +1,7 @@
 ### Paul Thompson's Coding Portfolio
 
 #### Languages
-![C](https://img.shields.io/badge/-C-000?&logo=C)
+<img alt="C Programming Language" src="https://img.shields.io/badge/-Git-000?&logo=Git](https://img.shields.io/badge/-C-000?&logo=C)"> </img>
 ![Lua](https://img.shields.io/badge/-Lua-000?&logo=lua)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
