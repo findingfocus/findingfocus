@@ -1,9 +1,11 @@
 ### Finding Focus: Paul Thompson's Coding Portfolio
 
-## Languages
-(https://img.shields.io/badge/-Python-000?&logo=Python)
+#### Languages
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Lua](https://img.shields.io/badge/-Lua-000?&logo=lua)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![nvim](https://img.shields.io/badge/-nvim-000?&logo=neovim)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 <br>
 I'm currently building out my [website](findingfocus.dev) in HTML and CSS. There's now a playable demo on that site in the interactive art tab for you to try out and it even works on mobile.
 <br>
