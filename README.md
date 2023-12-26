@@ -9,9 +9,9 @@
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 <br>
 #### Accounts
-[![Youtube Badge](https://img.shields.io/badge/-findingfocus-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/findingfocus)](https://www.youtube.com/findingfocus)
+[![Email Badge](https://img.shields.io/badge/-Email:paul@findingfocus.dev-325A80?style=flat-squareColor=white&link=mailto:paul@findingfocus.dev)](mailto:paul@findingfocus.dev)
 [![Linkedin Badge](https://img.shields.io/badge/-findingfocus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paul-thompson-abq/)](https://www.linkedin.com/in/paul-thompson-abq/)
-[![Email Badge](https://img.shields.io/badge/-paul@findingfocus.dev-325A80?style=flat-squareColor=white&link=mailto:paul@findingfocus.dev)](mailto:paul@findingfocus.dev)
+[![Youtube Badge](https://img.shields.io/badge/-findingfocus-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/findingfocus)](https://www.youtube.com/findingfocus)
 
 I'm currently building out my website in HTML and CSS. There's now a playable demo on that site in the interactive art tab for you to try out and it even works on mobile.
 <br>
