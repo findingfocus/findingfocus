@@ -1,6 +1,7 @@
 ### Finding Focus: Paul Thompson's Coding Portfolio
 
-##Languages
+## Languages
+(https://img.shields.io/badge/-Python-000?&logo=Python)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Lua](https://img.shields.io/badge/-Lua-000?&logo=lua)
 <br>
