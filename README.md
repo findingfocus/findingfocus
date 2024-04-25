@@ -9,7 +9,7 @@
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 #### Accounts
 [![Email Badge](https://img.shields.io/badge/paul@findingfocus.dev-325A80?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paul@findingfocus.dev)](mailto:paul@findingfocus.dev)
-[![Linkedin Badge](https://img.shields.io/badge/-findingfocus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paul-thompson-abq/)](https://www.linkedin.com/in/paul-thompson-abq/)
+[![Linkedin Badge](https://img.shields.io/badge/-findingfocus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paul-thompson-abq/)](https://www.linkedin.com/in/findingfocusdev/)
 [![Youtube Badge](https://img.shields.io/badge/-findingfocus-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/findingfocus)](https://www.youtube.com/findingfocus)
 #### About me
 I am an interdisciplinary artist currently focusing on building software solutions and interactive art. There's now a small [demo](https://findingfocus.dev/interactive-art.html) on my website for you to try that even works on mobile.
