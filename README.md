@@ -15,10 +15,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/-findingfocus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paul-thompson-abq/)](https://www.linkedin.com/in/findingfocusdev/)
 [![Youtube Badge](https://img.shields.io/badge/-findingfocus-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/findingfocus)](https://www.youtube.com/findingfocus)
 #### About me
-I am an interdisciplinary artist currently focusing on building software solutions and interactive art. There's now a small [demo](https://findingfocus.dev/interactive-art.html) on my website for you to try that even works on mobile.
+I am an interdisciplinary artist currently focused on Full Stack Web Development and making interactive art. There's now a small [demo](https://findingfocus.dev/interactive-art.html) on my website for you to try that even works on mobile.
 <br>
 <br>
-I'm currently mainly programming interactive art experiences in LOVE 2d using Lua, but I am also programming in C and python.
+I'm currently building a web application for getting reliable movie reccomendations as well as developing a video game called Tashio Tempo on my [Twitch](https://twitch.tv/findingfocusdev) channel.
 <br>
 <br>
 Check out my [website](https://findingfocus.dev/) to stay up to date with what I'm working on.
