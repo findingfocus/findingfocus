@@ -1,7 +1,7 @@
 ### Paul Thompson's Coding Portfolio
 
 #### Technologies
-<img alt="C Programming Language" src="https://img.shields.io/badge/-C-000?&logo=C"> </img>
+![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Lua](https://img.shields.io/badge/-Lua-000?&logo=lua)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=JavaScript)
