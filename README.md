@@ -16,7 +16,7 @@
 [![Youtube Badge](https://img.shields.io/badge/-findingfocus-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/findingfocus)](https://www.youtube.com/findingfocus)
 [![Twitch Badge](https://img.shields.io/badge/-findingfocusdev-8A2BE2?style=flat-square&logo=twitch&logoColor=white&link=https://twitch.tv/findingfocusdev)](https://twitch.tv/findingfocusdev)
 #### About me
-I am an interdisciplinary artist currently focused on Full Stack Web Development and making interactive art. There's now a small [demo](https://findingfocus.dev/interactive-art.html) on my website for you to try that even works on mobile.
+I am an interdisciplinary artist currently focused on Full Stack Web Development and making interactive art. There is a small playable [demo](https://findingfocus.dev/interactive-art.html) on my website that works on mobile.
 <br>
 <br>
 I'm currently building a web application for getting reliable movie reccomendations as well as developing a video game called Tashio Tempo on my [Twitch](https://twitch.tv/findingfocusdev) channel.
