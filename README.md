@@ -7,6 +7,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=PostGreSQL)
+![Tailwind](https://img.shields.io/badge/tailwind-000?logo=tailwindcss)
 ![nvim](https://img.shields.io/badge/-nvim-000?&logo=neovim)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 #### Accounts
