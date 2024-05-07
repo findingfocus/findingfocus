@@ -4,8 +4,8 @@
 <img alt="C Programming Language" src="https://img.shields.io/badge/-C-000?&logo=C"> </img>
 ![Lua](https://img.shields.io/badge/-Lua-000?&logo=lua)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![nvim](https://img.shields.io/badge/-nvim-000?&logo=neovim)
+![JavaScript](https://img.shields.io/badge/javascript-000?logo=javascript)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)![nvim](https://img.shields.io/badge/-nvim-000?&logo=neovim)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 #### Accounts
 [![Email Badge](https://img.shields.io/badge/paul@findingfocus.dev-325A80?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paul@findingfocus.dev)](mailto:paul@findingfocus.dev)
