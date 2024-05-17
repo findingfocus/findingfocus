@@ -23,4 +23,4 @@ I am an interdisciplinary artist currently focused on Full Stack Web Development
 I'm currently building a web application for getting reliable movie reccomendations as well as developing a video game called Tashio Tempo on my [Twitch](https://twitch.tv/findingfocusdev) channel.
 <br>
 <br>
-Check out my [website](https://findingfocus.dev/) to stay up to date with what I'm working on.
+Visit my [website](https://findingfocus.dev/) to stay up to date on my recent projects.
