@@ -13,6 +13,8 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=PostGreSQL)
 ![Tailwind](https://img.shields.io/badge/tailwind-000?logo=tailwindcss)
 ![Nginx](https://img.shields.io/badge/nginx-000?logo=nginx)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-000?logo=digitalocean)
+![Vultr](https://img.shields.io/badge/vultr-000?logo=vultr)
 ![nvim](https://img.shields.io/badge/-nvim-000?&logo=neovim)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 #### Accounts
