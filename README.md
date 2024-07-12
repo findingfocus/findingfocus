@@ -30,4 +30,3 @@ I'm recently built a web application for getting reliable movie reccomendations 
 <br>
 <br>
 Visit my [website](https://findingfocus.dev/) to stay up to date on my recent projects.
-Checkout my art [website](https://findingfocus.art/) to see my original comics.
