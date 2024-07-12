@@ -26,7 +26,8 @@
 I am an interdisciplinary artist currently focused on Full-Stack Web Development and making interactive art. There are small playable [demos](https://findingfocus.dev/interactive-art.html) on my website that work on mobile, and github hosts all the executable builds I created for all major operating systems.
 <br>
 <br>
-I'm currently building a web application for getting reliable movie reccomendations as well as developing a video game called Tashio Tempo on my [Twitch](https://twitch.tv/findingfocusdev) channel.
+I'm recently built a web application for getting reliable movie reccomendations and I'm also developing a video game called Tashio Tempo on my [Twitch](https://twitch.tv/findingfocusdev) channel.
 <br>
 <br>
 Visit my [website](https://findingfocus.dev/) to stay up to date on my recent projects.
+Checkout my art [website](https://findingfocus.art/) to see my original comics.
