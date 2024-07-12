@@ -12,7 +12,7 @@
 ![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=PostGreSQL)
 ![Tailwind](https://img.shields.io/badge/Tailwind-000?logo=tailwindcss)
-![Nginx](https://img.shields.io/badge/nginx-000?logo=nginx)
+![Nginx](https://img.shields.io/badge/Nginx-000?logo=nginx)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-000?logo=digitalocean)
 ![Vultr](https://img.shields.io/badge/Vultr-000?logo=vultr)
 ![Nvim](https://img.shields.io/badge/-Nvim-000?&logo=neovim)
