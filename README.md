@@ -29,4 +29,4 @@ I am an interdisciplinary artist currently focused on Full-Stack Web Development
 I recently built a web application [No Concessions](http://noconcessions.xyz) for getting reliable movie recommendations and I'm also developing a video game called Tashio Tempo on my [Twitch](https://twitch.tv/findingfocusdev) channel.
 <br>
 <br>
-Visit my [website](https://findingfocus.xyz/) to stay up to date on my recent projects.
+Visit my [website](https://findingfocus.dev/) to stay up to date on my recent projects.
