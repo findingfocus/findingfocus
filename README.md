@@ -6,6 +6,7 @@
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Svelte](https://img.shields.io/badge/-Svelte-000?&logo=Svelte)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
