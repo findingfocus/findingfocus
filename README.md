@@ -19,10 +19,10 @@
 ![Nvim](https://img.shields.io/badge/-Nvim-000?&logo=neovim)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 #### Accounts
-[![Email Badge](https://img.shields.io/badge/paul@findingfocus.dev-325A80?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paul@findingfocus.dev)](mailto:paul@findingfocus.dev)
-[![Linkedin Badge](https://img.shields.io/badge/-findingfocusdev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paul-thompson-abq/)](https://www.linkedin.com/in/findingfocusdev/)
-[![Twitch Badge](https://img.shields.io/badge/-findingfocusdev-purple?style=flat-square&logo=twitch&logoColor=white&link=https://twitch.tv/findingfocusdev)](https://twitch.tv/findingfocusdev)
-[![Youtube Badge](https://img.shields.io/badge/-findingfocus-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/findingfocus)](https://www.youtube.com/findingfocus)
+[![Email](https://img.shields.io/badge/paul@findingfocus.dev-325A80?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paul@findingfocus.dev)](mailto:paul@findingfocus.dev)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/findingfocusdev/)
+[![Twitch](https://img.shields.io/badge/-findingfocusdev-purple?style=flat-square&logo=twitch&logoColor=white&link=https://twitch.tv/findingfocusdev)](https://twitch.tv/findingfocusdev)
+[![Youtube](https://img.shields.io/badge/-findingfocus-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/findingfocus)](https://www.youtube.com/findingfocus)
 #### About me
 I am an interdisciplinary artist currently focused on Full-Stack Web Development and making interactive art. There are small playable [demos](https://findingfocus.dev/interactive-art) on my website that work on mobile, and github hosts all the executable builds I created for all major operating systems. Check out my comic strip series hosted at [findingfocus.art](https://findingfocus.art)
 <br>
